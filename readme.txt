@@ -1,6 +1,6 @@
 # 🛒  API de Productos - Django REST Framework
 
-Esta es una API simple desarrollada con Django REST Framework. Permite gestionar productos con dos campos principales: **nombre** y **precio**. Ideal como base para proyectos más complejos o como ejemplo de una API REST básica en Python.
+Esta es una API simple desarrollada con Django REST Framework. Permite gestionar productos con dos campos principales: **nombre** y **precio**.
 
 ---
 
